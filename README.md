@@ -1,4 +1,4 @@
 # seniorDesign
 
-cd path/to/seniorDesign
+cd path/to/seniorDesign  
 npx expo start
